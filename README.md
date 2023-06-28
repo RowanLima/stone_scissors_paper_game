@@ -11,3 +11,6 @@ Projeto criado com os objetivos de conhecimento e aprendizagem.
 Através de algoritmos o programa permite que você jogue de forma simples e explicativa o famoso jogo de pedra, tesoura de papel.
 
 # Project images / Imagens do projeto
+<p align="center"> 
+<img scr="Readme_midia/C__WINDOWS_py.exe 2023-06-28 15-25-15.GIF">
+</p>
